@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aravindsolaiappan
 - 👀 I’m interested in Artificial Intelligence and Information Retrieval
-- 🌱 I’m currently learning AWS DevOps
+- 🌱 I’m currently learning GCP Associate
 - 💞️ I’m looking to collaborate on Google's Search Engine related applications
 - 📫 How to reach me solaiappanaravind@gmail.com, +1(226)9788658
 
